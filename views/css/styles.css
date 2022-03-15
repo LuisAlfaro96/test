@@ -19,7 +19,7 @@ p {
 }
 
 .jumbotron {
-	background: #0048CD;
+	background: hsl(0, 0%, 99%);
 	color: white;
 	text-align: center;
 }
